@@ -1,0 +1,70 @@
+.app {
+ text-align: center;
+  
+}
+
+.divTable {
+  display: table;
+  float: right;
+  display: flex;
+  align-items: center;
+};
+.divTableRow {
+  display: table;
+}
+
+.divTableCell{
+  background:rgb(48, 3, 107);
+  display: table-cell;
+  padding: 3px 10px;
+  font-size: 20px;
+  text-align:right;
+  color: aquamarine;
+}
+
+.divTableCell1{
+  color: aqua;
+  background-color: rgb(49, 4, 107);
+  display: table-cell;
+  padding: 3px 10px;
+  width: 80%;
+  font-size: 20px; 
+  text-align: left
+}
+
+
+.container {
+  display: flex;
+  border: 1px solid rgb(245, 127, 127);
+  width: 50%;
+  border-radius: 10px;
+  background-color: #fa8ecb;
+  justify-content: center;
+}
+
+img {
+  width:50%
+}
+.input-container {
+  box-sizing: border-box;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  display: block;
+  border: 1px solid rgb(228, 225, 220);
+  border-radius: 10px;
+
+}
+.btn {
+  font-size: 1.5rem;
+  background: rgb(243, 13, 212);
+  margin-left: 10px;
+  margin-bottom: 8px;
+  padding: 5px 20px;
+  border: 2px solid rgb(182, 174, 206);
+  border-radius: 15px;
+  color: aliceblue;
+}
+
+  
